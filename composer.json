@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^8.1.0",
-        "brianium/paratest": "^7.4.9",
+        "brianium/paratest": "7.3.2",
         "nunomaduro/collision": "^7.11.0|^8.5.0",
         "nunomaduro/termwind": "^1.16.0|^2.3.3",
         "pestphp/pest-plugin": "^2.1.1",
