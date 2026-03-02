@@ -65,6 +65,18 @@
             "pestphp/pest-plugin": true
         }
     },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../pest",
+            "options": {
+                "symlink": true
+            }
+        }
+    ],
+    "replace": {
+        "pestphp/pest": "*"
+    },
     "bin": [
         "bin/pest"
     ],
